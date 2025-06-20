@@ -1,0 +1,12 @@
+retail2025:  # 👈 Nom du projet dbt
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: root-micron-435213-v0  # 👈 Ton ID projet GCP
+      dataset: retail2025             # 👈 Nom du dataset BigQuery
+      threads: 1
+      timeout_seconds: 300
+      location: EU
+      keyfile: C:/Solo project/retail2025/dbt_key.json
