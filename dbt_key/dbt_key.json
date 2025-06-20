@@ -1,0 +1,14 @@
+#this code is generated from GCP, service account
+{
+  "type": "service_account",
+  "project_id": "", #your id project
+  "private_key_id": "82ed1e6294d36a3dae1f63a2d6e7c026f69124ad",
+  "private_key": "",
+  "client_email": "db-user@root-micron-435213-v0.iam.gserviceaccount.com",
+  "client_id": "",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/db-user%40root-micron-435213-v0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
