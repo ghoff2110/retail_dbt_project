@@ -4,7 +4,7 @@ retail2025:  # 👈 Nom du projet dbt
     dev:
       type: bigquery
       method: service-account
-      project: root-micron-435213-v0  # 👈 Ton ID projet GCP
+      project:  # 👈 Ton ID projet GCP
       dataset: retail2025             # 👈 Nom du dataset BigQuery
       threads: 1
       timeout_seconds: 300
