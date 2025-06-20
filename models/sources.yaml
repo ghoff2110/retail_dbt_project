@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    database: root-micron-435213-v0
+    schema: retail2025
+    tables:
+      - name: raw_sales
