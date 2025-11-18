@@ -2,7 +2,7 @@
 {
   "type": "service_account",
   "project_id": "", #your id project
-  "private_key_id": "82ed1e6294d36a3dae1f63a2d6e7c026f69124ad",
+  "private_key_id": "#your private key id",
   "private_key": "",
   "client_email": "db-user@root-micron-435213-v0.iam.gserviceaccount.com",
   "client_id": "",
